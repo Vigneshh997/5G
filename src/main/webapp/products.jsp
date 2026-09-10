@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Products - ShopEase</title>
+    <title>Products - ShopEaseForYou</title>
 
     <style>
         * {
@@ -23,7 +23,7 @@
         header {
             background-color: #2874f0;
             color: white;
-            padding: 18px 60px;
+            padding: 20px 60px;
             display: flex;
             justify-content: space-between;
             align-items: center;
